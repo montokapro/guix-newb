@@ -36,7 +36,7 @@ Pinentry may already be installed for you. If not, `guix install pinentry` will 
 ```
 $ pinentry
 OK Pleased to meet you
-$ which /run/current-system/profile/bin/pinentry
+$ which pinentry
 /run/current-system/profile/bin/pinentry
 ```
 
